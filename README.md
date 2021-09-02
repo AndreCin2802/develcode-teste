@@ -1,6 +1,7 @@
 # develcode-teste
 
 Substituir os campos  username e password em application.properties
+
 Documentação da api em http://localhost:8080/swagger-ui.html (necessário rodar a aplicação)
 
 # Criar Usuário
